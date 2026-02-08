@@ -12,7 +12,7 @@ public interface BookingBuilder {
 
     BookingBuilder setPrice(double price);
 
-    // 👇 МІНЕ ОСЫЛАР ДҰРЫС
+    
     BookingBuilder setHotelName(String hotelName);
 
     BookingBuilder setRoomType(String roomType);
