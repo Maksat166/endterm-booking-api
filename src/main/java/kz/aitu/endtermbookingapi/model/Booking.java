@@ -4,7 +4,7 @@ import java.time.LocalDate;
 
 public abstract class Booking {
     protected Long id;
-    protected String type;          // "HOTEL" немесе "FLIGHT"
+    protected String type;          
     protected String customerName;
     protected LocalDate startDate;
     protected LocalDate endDate;
