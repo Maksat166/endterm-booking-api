@@ -95,25 +95,4 @@ GET /bookings
 
 Returns a list of all created bookings.
 
-✅ Features
 
-RESTful API
-
-Clean layered architecture
-
-In-memory data storage
-
-Flexible booking creation
-
-Easy to extend with new booking types
-
-👨‍🎓 Author
-
-Maksat
-Astana IT University
-Endterm Project — 2026
-
-🏁 Conclusion
-
-This project demonstrates practical usage of Spring Boot, REST APIs, and Design Patterns in a real-world backend application.
-It is structured, extendable, and follows best coding practices.
